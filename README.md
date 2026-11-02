@@ -1,16 +1,13 @@
-## Hi there 👋
+# Harrison Fisher
 
-<!--
-**gfnnn/gfnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing systems and data: CRM, reporting, Python and web builds. Surrey, UK.
 
-Here are some ideas to get you started:
+**Now:** Watts Gallery. Ticketing and event set-up, Mailchimp, reporting in Excel and Python, Dynamics 365.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Before:** Codehouse, six years as Customer Relationship Manager on Sitecore web projects.
+
+**Here:** [Beanstalk](https://github.com/gfnnn/Beanstalk), the website and enquiry system for a self-employed tattoo artist (Vite, Cloudflare Workers, D1, Resend).
+
+**Tools:** Excel, Python, SQL, Mailchimp, Dynamics 365, Sitecore, Google Analytics.
+
+[LinkedIn](https://www.linkedin.com/in/harrison-fisher-16a875a0)
