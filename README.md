@@ -8,6 +8,6 @@ Marketing systems and data: CRM, reporting, Python and web builds. Surrey, UK.
 
 **Here:** [Beanstalk](https://github.com/gfnnn/Beanstalk), the website and enquiry system for a self-employed tattoo artist (Vite, Cloudflare Workers, D1, Resend).
 
-**Tools:** Excel, Python, SQL, Mailchimp, Dynamics 365, Sitecore, Google Analytics.
+**Tools:** Excel, Python, Mailchimp, Dynamics 365, Sitecore, Google Analytics.
 
 [LinkedIn](https://www.linkedin.com/in/harrison-fisher-16a875a0)
