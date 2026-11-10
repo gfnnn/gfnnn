@@ -11,7 +11,7 @@ Marketing systems and data: CRM, reporting, Python and web builds. Surrey, UK.
 - [Beanstalk](https://github.com/gfnnn/Beanstalk): the website and enquiry system for a self-employed tattoo artist (Vite, Cloudflare Workers, D1, Resend). Not yet live.
 - [Calcifer](https://github.com/gfnnn/calcifer): a Discord bot for an online gaming guild I run. It gathers game data into one database to keep the guild's Discord organised (Python, discord.py, SQLite). Not currently deployed.
 
-**At work:** Excel, Python, Mailchimp, Dynamics 365.
+**At work:** Excel, Python, Mailchimp, Dynamics 365, Google Analytics (GA4, certified 2026), Looker Studio, Google Tag Manager.
 
 **Personal projects:** Python, HTML, CSS, JavaScript, GitHub, Cloudflare Workers and D1 (working knowledge).
 
