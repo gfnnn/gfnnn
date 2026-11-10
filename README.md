@@ -6,7 +6,10 @@ Marketing systems and data: CRM, reporting, Python and web builds. Surrey, UK.
 
 **Before:** Codehouse, six years as Customer Relationship Manager on Sitecore web projects.
 
-**Here:** [Beanstalk](https://github.com/gfnnn/Beanstalk), an unpaid personal project: the website and enquiry system for a self-employed tattoo artist (Vite, Cloudflare Workers, D1, Resend). In development, not yet live.
+**Here** (unpaid personal projects, both in development):
+
+- [Beanstalk](https://github.com/gfnnn/Beanstalk): the website and enquiry system for a self-employed tattoo artist (Vite, Cloudflare Workers, D1, Resend). Not yet live.
+- [Calcifer](https://github.com/gfnnn/calcifer): a Discord bot for an online gaming guild I run. It gathers game data into one database to keep the guild's Discord organised (Python, discord.py, SQLite). Not currently deployed.
 
 **At work:** Excel, Python, Mailchimp, Dynamics 365.
 
