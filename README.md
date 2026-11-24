@@ -9,6 +9,6 @@ Marketing systems and data: CRM, reporting and automation. Tools and websites I 
 **Here** (unpaid personal projects, built with Claude Code to my specification):
 
 - [Beanstalk](https://github.com/gfnnn/Beanstalk): the website and enquiry system for a self-employed tattoo artist (Vite, Cloudflare Workers, D1, Resend). Live at [beansprout.ink](https://beansprout.ink) since November 2026; online booking is planned.
-- [Calcifer](https://github.com/gfnnn/calcifer): live since November 2026. A Discord bot designed and specified around how its community works; built feature by feature with Claude Code, tested by me in a private server, and deployed and hosted by me on Cloudflare Workers. Live on a 300+ member server.
+- [Calcifer](https://github.com/gfnnn/calcifer): live since November 2026. A Discord bot designed and specified around how its community works; built feature by feature with Claude Code, tested by me in a private server, and deployed and hosted by me on Oracle Cloud. Live on a 300+ member server.
 
 **At work:** Excel, Mailchimp, Dynamics 365, Google Analytics (GA4, certified 2026), Looker Studio, Google Tag Manager, building with AI agents (Claude Code).
